@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theroshansahu
-- 👀 I’m interested in Software Devolping and Hacking
+- 👀 I’m interested in Devolping Software
 - 🌱 I’m currently learning Python and Java
 - 📫 How to reach me ...email me on realroshansahu@gmail.com
 
