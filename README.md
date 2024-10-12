@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theroshansahu
 - 👀 I’m interested in Devolping Software
-- 🌱 I’m currently learning Python and Java
-- 📫 How to reach me ...email me on realroshansahu@gmail.com
+- 🌱 I’m currently learning Python and DSA in Java
+- 📫 How to reach me ...? Mail me on realroshansahu@gmail.com
 
 <!---
 theroshansahu/theroshansahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
